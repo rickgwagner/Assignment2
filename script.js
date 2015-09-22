@@ -55,13 +55,7 @@
 //var userWord = window.prompt("Please enter a word");
 //window.alert(pangram.search(userWord));
 
-// STEP 7b (using indexOf)
-
-//var pangram = "The quick brown fox jumps over the lazy dog";
-//var userWord = window.prompt("Please enter a word");
-//window.alert(pangram.indexOf(userWord));
-
-// STEP 7c (using match)
+// STEP 7b (using match)
 
 //var pangram = "The quick brown fox jumps over the lazy dog";
 //var userWord = window.prompt("Please enter a word");
@@ -558,6 +552,7 @@
 //} while (i < 7);
 
 //Part 9 – Odd or Even? (5 points)
+
 
 //for (var i = 0; i <= 15; i++) {
 //    if (i % 2 == 0) {
