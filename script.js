@@ -340,80 +340,44 @@
 //var henry = 88;
 //var tabitha = 95;
 //var lucy = 68;
-//var studentCount = 5;
+//var currentStudent = "";
+//var currentName = "";
+//
+//function evaluation() {"use strict";
+//    if (currentStudent < 100 && currentStudent >= 90) {
+//        window.console.log(currentName + " - A");
+//    } else if (currentStudent < 90 && currentStudent >= 80) {
+//    window.console.log(currentName + " - B");
+//} else if (currentStudent < 80 && currentStudent >= 70) {
+//    window.console.log(currentName + " - C");
+//} else if (currentStudent < 70 && currentStudent >= 60) {
+//    window.console.log(currentName + " - D");
+//} else {
+//    window.console.log(currentName + " - F");
+//}
+//    }
 //
 //var currentStudent = ursula;
 //var currentName = "Ursula";
-//
-//if (currentStudent < 100 && currentStudent >= 90) {
-//    window.console.log(currentName + " - A");
-//} else if (currentStudent < 90 && currentStudent >= 80) {
-//    window.console.log(currentName + " - B");
-//} else if (currentStudent < 80 && currentStudent >= 70) {
-//    window.console.log(currentName + " - C");
-//} else if (currentStudent < 70 && currentStudent >= 60) {
-//    window.console.log(currentName + " - D");
-//} else {
-//    window.console.log(currentName + " - F");
-//}
+//evaluation();
 //
 //var currentStudent = paul;
 //var currentName = "Paul";
+//evaluation();
 //
-//if (currentStudent < 100 && currentStudent >= 90) {
-//    window.console.log(currentName + " - A");
-//} else if (currentStudent < 90 && currentStudent >= 80) {
-//    window.console.log(currentName + " - B");
-//} else if (currentStudent < 80 && currentStudent >= 70) {
-//    window.console.log(currentName + " - C");
-//} else if (currentStudent < 70 && currentStudent >= 60) {
-//    window.console.log(currentName + " - D");
-//} else {
-//    window.console.log(currentName + " - F");
-//}
 //var currentStudent = henry;
 //var currentName = "Henry";
+//evaluation();
 //
-//if (currentStudent < 100 && currentStudent >= 90) {
-//    window.console.log(currentName + " - A");
-//} else if (currentStudent < 90 && currentStudent >= 80) {
-//    window.console.log(currentName + " - B");
-//} else if (currentStudent < 80 && currentStudent >= 70) {
-//    window.console.log(currentName + " - C");
-//} else if (currentStudent < 70 && currentStudent >= 60) {
-//    window.console.log(currentName + " - D");
-//} else {
-//    window.console.log(currentName + " - F");
-//}
 //var currentStudent = tabitha;
 //var currentName = "Tabitha";
+//evaluation();
 //
-//if (currentStudent < 100 && currentStudent >= 90) {
-//    window.console.log(currentName + " - A");
-//} else if (currentStudent < 90 && currentStudent >= 80) {
-//    window.console.log(currentName + " - B");
-//} else if (currentStudent < 80 && currentStudent >= 70) {
-//    window.console.log(currentName + " - C");
-//} else if (currentStudent < 70 && currentStudent >= 60) {
-//    window.console.log(currentName + " - D");
-//} else {
-//    window.console.log(currentName + " - F");
-//}
 //var currentStudent = lucy;
 //var currentName = "Lucy";
-//
-//if (currentStudent < 100 && currentStudent >= 90) {
-//    window.console.log(currentName + " - A");
-//} else if (currentStudent < 90 && currentStudent >= 80) {
-//    window.console.log(currentName + " - B");
-//} else if (currentStudent < 80 && currentStudent >= 70) {
-//    window.console.log(currentName + " - C");
-//} else if (currentStudent < 70 && currentStudent >= 60) {
-//    window.console.log(currentName + " - D");
-//} else {
-//    window.console.log(currentName + " - F");
-//}
-        
+//evaluation();
+
+      
 // STEP 14
 
 //Create a JavaScript for loop that iterates from 1 to 15. Each iteration should check if the current number is odd or even, and display a message within the console window.
@@ -552,7 +516,6 @@
 //} while (i < 7);
 
 //Part 9 – Odd or Even? (5 points)
-
 
 //for (var i = 0; i <= 15; i++) {
 //    if (i % 2 == 0) {
